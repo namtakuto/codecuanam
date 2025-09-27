@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OOP_ThucHanh_KTLT_KeThua/1.0.0": {
+        "runtime": {
+          "OOP_ThucHanh_KTLT_KeThua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_ThucHanh_KTLT_KeThua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
